@@ -151,6 +151,7 @@ obj-$(CONFIG_X86_USER_SHADOW_STACK)	+= shstk.o
 
 # Helloworld Syscall
 obj-y+=helloworld.o
+obj-y+=csci3753_mult.o
 
 ###
 # 64 bit specific files

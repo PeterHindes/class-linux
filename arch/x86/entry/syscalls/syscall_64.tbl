@@ -376,6 +376,8 @@
 452	common	fchmodat2		sys_fchmodat2
 453	64	map_shadow_stack	sys_map_shadow_stack
 454     common  helloworld              sys_helloworld
+455     common  csci3753_mult           sys_csci3753_mult
+
 
 #
 # Due to a historical design error, certain syscalls are numbered differently

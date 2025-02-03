@@ -1272,4 +1272,5 @@ int __sys_setsockopt(int fd, int level, int optname, char __user *optval,
 		int optlen);
 
 asmlinkage long sys_helloworld(void);
+asmlinkage long sys_csci3753_mult(void);
 #endif
